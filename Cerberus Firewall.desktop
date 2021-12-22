@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Cerberus Firewall
+Comment=
+Exec=python3 Cerberus.py
+Icon=/home/stuxtron/Desktop/Stuxtron/Cerberus Firewall/stock-vector-angry-cerberus-three-headed-dog-1969096651.jpg
+Path=/home/stuxtron/Desktop/Stuxtron/Cerberus Firewall
+Terminal=true
+StartupNotify=false
